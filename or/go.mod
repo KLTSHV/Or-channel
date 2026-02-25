@@ -1,3 +1,3 @@
-module github.com/kltshv/orChannel
+module github.com/kltshv/Or-channel
 
 go 1.24.2
